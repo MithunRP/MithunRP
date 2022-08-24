@@ -21,7 +21,16 @@ Skills: NODE JS / REACT / JS / HTML / CSS/ PYTHON/ JAVA
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: **Dark humor**  
  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
+<a href="https://twitter.com/tito_naveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tito_naveen" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/naveentito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveentito" height="30" width="40" /></a>
+
+<a href="https://instagram.com/naveen_tito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen_tito" height="30" width="40" /></a>
+
+</p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MithunRP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mithunrp//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mithun_rp)  
 
