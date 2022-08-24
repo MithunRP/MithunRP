@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @MithunRP
-- 👀 I’m interested in AI ML and webdevlopment
-- 🌱 I’m currently learning python implementation on AI and ML
-- 💞️ I’m looking to collaborate on AI and ML projects
-- 📫 How to reach me @ mithunrp07@gmail.com
+### Hi there 👋, I'm Mithun
+#### I'm a **coder** by race
+![I'm a **coder** by race](https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836/600x200)
 
-<!---
-MithunRP/MithunRP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a freelancer who works on **web dev** projects and I'm interested in **cloud services(AWS)**, **AI** and **ML**
+
+If you are someone with tips or any info about these topics you can contact me via [mail](mithunrp07@gmail.com)
+
+Skills: **NODE JS / REACT / JS / HTML / CSS/ PYTHON/ JAV
+
+- 🔭 I’m currently working on real world implications of AI and ML 
+- 🌱 I’m currently learning about AI and ML 
+- 👯 I’m looking to collaborate on Cloud services 
+- 🤔 I’m looking for help with AWS or cloud services 
+- 💬 Ask me about Web Development/ Python/ Java 
+- 📫 How to reach me: [mail](mithunrp07@gmail.com) 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: **Dark humor**  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MithunRP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mithunrp//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mithun_rp)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunRP)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MithunRP&show_icons=true)  
+
