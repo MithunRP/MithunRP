@@ -1,5 +1,5 @@
 
-<img align="left" alt="Coding" src="https://drive.google.com/file/d/1baWGjetREYh-CMXr34aGur9As3TRix1o/view?usp=sharing">
+<img align="left" alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836/600x200">
 <h1 align="center">Hi 👋<br> I'm Mithun</h1>
 <h3 align="center">I'm a **coder** by race</h3>
 
