@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Mithun
-#### I'm a **coder** by race
+### <h1 align="center">Hi 👋, I'm Mithun</h1>
+#### <h3 align="center">I'm a **coder** by race</h3>
 ![I'm a **coder** by race](https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836/600x200)
 
 I'm a freelancer who works on **web dev** projects and I'm interested in **cloud services(AWS)**, **AI** and **ML**
@@ -17,8 +17,6 @@ Skills: NODE JS / REACT / JS / HTML / CSS/ PYTHON/ JAVA
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: **Dark humor**  
  
-
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MithunRP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mithunrp//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mithun_rp)  
