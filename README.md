@@ -1,5 +1,5 @@
 
-<img align="left" alt="Coding" width="400" src="https://www.canva.com/design/DAFKOLkd1ZA/68vk9Pj_yuW8TYkm545HuQ/edit?utm_content=DAFKOLkd1ZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="left" alt="Coding" width="400" src="https://drive.google.com/file/d/1baWGjetREYh-CMXr34aGur9As3TRix1o/view?usp=sharing">
 <h1 align="center">Hi 👋<br> I'm Mithun</h1>
 <h3 align="center">I'm a **coder** by race</h3>
 
