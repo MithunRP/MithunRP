@@ -58,10 +58,11 @@ If you are someone with tips or any info about these topics you can contact me v
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/75px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs" width="40" height="40"/> </a>
 <a href="https://atom.en.uptodown.com/windows" target="_blank" rel="noreferrer"> 
 <img src="https://img.utdstc.com/icon/29f/b8c/29fb8ca7d51ee52cd1b89848d36bc2e2dcade52591409f9c8115752383f07360:200" alt="atom" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
+
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
-<a href="https://atom.en.uptodown.com/windows" target="_blank" rel="noreferrer"> 
-<img src="https://img.utdstc.com/icon/29f/b8c/29fb8ca7d51ee52cd1b89848d36bc2e2dcade52591409f9c8115752383f07360:200" alt="atom" width="40" height="40"/> </a>
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/121px-Anaconda_Logo.png" alt="anaconda" width="" height="40"/> </a>
 
 
 <h3 align="left">Stats:</h3>
