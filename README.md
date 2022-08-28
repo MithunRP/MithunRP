@@ -39,7 +39,9 @@ If you are someone with tips or any info about these topics you can contact me v
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="js" width="30" height="40"/></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="anaconda" width="" height="40"/> </a>
 
 
 
@@ -63,8 +65,7 @@ If you are someone with tips or any info about these topics you can contact me v
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/121px-Anaconda_Logo.png" alt="anaconda" width="" height="40"/> </a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="anaconda" width="" height="40"/> </a>
+
 
 
 <h3 align="left">Stats:</h3>
