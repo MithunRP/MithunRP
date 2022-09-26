@@ -8,14 +8,14 @@
 
 I'm a freelancer who works on **web dev** projects and I'm interested in **cloud services(AWS)**, **AI** and **ML**
 
-If you are someone with tips or any info about these topics you can contact me via mail[mithunrp07@gmail.com]
+If you are someone with tips or any info about these topics you can contact me via mithunrp07@gmail.com
 
 - 🔭 I’m currently working on real world implications of AI and ML 
 - 🌱 I’m currently learning about AI and ML 
 - 👯 I’m looking to collaborate on Cloud services 
 - 🤔 I’m looking for help with AWS or cloud services 
-- 💬 Ask me about Web Development/ Python/ Java 
-- 📫 Reach out to me via mail[mithunrp07@gmail.com]
+- 💬 Ask me about Web Development/ Python/ Java/ AI & ML
+- 📫 Reach out to me via mithunrp07@gmail.com
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: **Dark humor**  
  
