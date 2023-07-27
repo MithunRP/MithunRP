@@ -35,7 +35,7 @@ If you are someone with tips or any info about these topics you can contact me v
 
 <img src="https://raw.githubusercontent.com/MithunRP/MithunRP/output/snake.svg" alt="Snake animation" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mithun&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
 
 
 
