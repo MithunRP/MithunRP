@@ -13,17 +13,17 @@ If you are someone with tips or any info about these topics you can contact me v
 
 
 - 🔭 I’m currently working on real world implications of AI and ML and Cyber Security using Python
-- 
+  
 - 👯 I’m looking to collaborate on Cyber Space
-- 
+  
 - 💬 Ask me about Web Development/ Python/ Java/ AI & ML
-- 
+  
 - 📫 Reach out to me via mithunrp07@gmail.com
-- 
+  
 - 😄 Pronouns: He/Him
-- 
+  
 - ⚡ Fun fact: **Dark humor**
-- 
+  
 
 
 
