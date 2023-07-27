@@ -9,7 +9,7 @@ I'm a freelancer who works on **web dev** projects and I'm interested in **cloud
 
 If you are someone with tips or any info about these topics you can contact me via mithunrp07@gmail.com
 # 💫 About Me:
-
+<img align="right" width="400"  alt="coding" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left">
 - 🔭 I’m currently working on real world implications of AI and ML 
 - 🌱 I’m currently learning about AI and ML 
