@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=MithunRP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
 
@@ -26,8 +27,6 @@ If you are someone with tips or any info about these topics you can contact me v
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunRP&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MithunRP&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
