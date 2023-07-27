@@ -20,9 +20,7 @@ If you are someone with tips or any info about these topics you can contact me v
   
 - 📫 Reach out to me via mithunrp07@gmail.com
   
-- 😄 Pronouns: He/Him
-  
-- ⚡ Fun fact: **Dark humor**
+
   
 
 
