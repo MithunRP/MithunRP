@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=MithunRP&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
 <img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
 
 <h1 align="center">Hi 👋<br> I'm Mithun</h1>
