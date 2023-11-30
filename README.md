@@ -1,9 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
 
 <img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
-
-<h1 align="center">I'm Mithun</h1>
-<h2 align="center">I'm a coder by race</h2>
 # 💫 About Me:
 <img align="right"  width="155" height="160" alt="coding"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
