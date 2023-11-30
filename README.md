@@ -1,13 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
+
 <img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
 
 <h1 align="center">I'm Mithun</h1>
 <h2 align="center">I'm a coder by race</h2>
-
-
-
-I'm a freelancer who works on **web dev** projects and I'm interested in **cloud services(AWS)**, **AI** and **ML**
-
-If you are someone with tips or any info about these topics you can contact me via mithunrp07@gmail.com
 # 💫 About Me:
 <img align="right"  width="155" height="160" alt="coding"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
 
@@ -18,8 +14,10 @@ If you are someone with tips or any info about these topics you can contact me v
   
 - 💬 Ask me about Web Development/ Python/ Java/ AI & ML
   
-- 📫 Reach out to me via mithunrp07@gmail.com
-  
+- 📫 Reach out to me via
+  ```
+  mithunrp07@gmail.com
+  ```
   
 # 💻 Tech Stack:
 
@@ -29,14 +27,7 @@ If you are someone with tips or any info about these topics you can contact me v
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunRP&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/MithunRP/MithunRP/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
 
 
 
