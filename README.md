@@ -2,14 +2,19 @@
 
 <img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
 # 💫 About Me:
-<img align="right"  width="155" height="160" alt="coding"  src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966">
-
-
-- 🔭 I’m currently working on real world implications of AI and ML and Cyber Security using Python
-  
-- 👯 I’m looking to collaborate on Cyber Space
-  
-- 💬 Ask me about Web Development/ Python/ Java/ AI & ML
+<div align="center">
+<pre>
+    💼 BSC @ PESCE [CS] • Penetration Tester • Ethical Hacker @ INE 
+    💻 System programming languages • Database Management • Ethical Hacking
+    📖 Software Architecture • System Architecture • CyberSecurity
+    🎮 Music • Games • Code • Hack
+    📫 mithunrp07@gmail.com
+    👯 Penetration testing module creation • Zero day Vulnerabilities
+    🔭 Certified in CyberSecurity (ISC)2 • Google Certified Cybersecurity Professional
+    💬 PenTesting Tools • Nmap • Metasploit modules
+</pre>
+<br><br>
+</div>
   
 - 📫 Reach out to me via
   ```
@@ -23,6 +28,12 @@
 # 📊 Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunRP&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+</div>
 
 
 
