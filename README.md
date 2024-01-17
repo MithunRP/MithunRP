@@ -31,7 +31,7 @@
 
 <div align="center">
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://github.com/MithunRP/MithunRP/blob/main/yin.gif" height="100" />
 <br><br><br>
 </div>
 
