@@ -4,7 +4,7 @@
 # 💫 About Me:
 <div align="center">
 <pre>
-    💼 BSC @ PESCE [CS] • Penetration Tester • Ethical Hacker @ INE 
+    💼 BE @ PESCE [CS] • Penetration Tester • Ethical Hacker @ INE 
     💻 System programming languages • Database Management • Ethical Hacking
     📖 Software Architecture • System Architecture • CyberSecurity
     🎮 Music • Games • Code • Hack
