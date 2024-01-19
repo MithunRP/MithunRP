@@ -4,23 +4,32 @@
 # 💫 About Me:
 <div align="center">
     <img align="right" src="https://github.com/MithunRP/MithunRP/blob/main/Coding.gif" height="200" />
-<pre>
-    💼 BE @ PESCE [CS] • Penetration Tester • Ethical Hacker @ INE 
-    💻 System programming languages • Database Management • Ethical Hacking
-    📖 Software Architecture • System Architecture • CyberSecurity
-    🎮 Music • Games • Code • Hack
-    👯 Penetration testing module creation • Zero day Vulnerabilities
-    🔭 Certified in CyberSecurity (ISC)2 • Google Certified Cybersecurity Professional
-    💬 PenTesting Tools • Nmap • Metasploit modules
-    📫 mithunrp07@gmail.com
-</pre>
+<p>
+    💼 BE @ PESCE [CS] • Penetration Tester • Ethical Hacker @ INE <br>
+    💻 System programming languages • Database Management • Ethical Hacking <br>
+    📖 Software Architecture • System Architecture • CyberSecurity <br>
+    🎮 Music • Games • Code • Hack <br>
+    👯 Penetration testing module creation • Zero day Vulnerabilities <br>
+    🔭 Certified in CyberSecurity (ISC)2 • Google Certified Cybersecurity Professional <br>
+    💬 PenTesting Tools • Nmap • Metasploit modules <br>
+    📫 mithunrp07@gmail.com <br>
+</p>
 <br><br>
 </div>
   
-- 📫 Reach out to me via
+# 📫 My Socials
+
   ```
   mithunrp07@gmail.com
   ```
+
+  ```
+https://www.linkedin.com/in/mithunrp/
+  ```
+
+```
+https://github.com/MithunRP
+```
   
 # 💻 Tech Stack:
 
