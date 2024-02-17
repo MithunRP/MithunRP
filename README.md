@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MithunRP&label=Profile%20views&color=0e75b6&style=flat" alt="MithunRP" /> </p>
 
-<img alt="Coding" src="https://pbs.twimg.com/profile_banners/1562360315404517382/1661330836"><br>
+<img alt="Coding" src="https://github.com/MithunRP/MithunRP/blob/main/banner.png"><br>
 # 💫 About Me:
 <div align="center">
     <img align="right" src="https://github.com/MithunRP/MithunRP/blob/main/Coding.gif" height="200" />
