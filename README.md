@@ -9,14 +9,13 @@
     💻 System programming languages • Database Management • Ethical Hacking <br>
     📖 Software Architecture • System Architecture • CyberSecurity <br>
     🎮 Music • Games • Code • Hack <br>
-    🔭 Certified in CyberSecurity (ISC)2 • Google Certified Cybersecurity Professional • EJPTV2 <br>
+    🔭 Certified in CyberSecurity (ISC)2 • Google Certified Cybersecurity Professional • eJPTV2 <br>
     🗣️ Penetration testing module creation • Zero day Vulnerabilities <br>
-    💬 PenTesting Tools • Nmap • Metasploit modules <br>
-    
+    💬 PenTesting Tools • SIEM • Metasploit modules <br>    
 </p>
 <br><br>
-</div>
-  
+</div>  
+
 # 📫 My Socials
 
   ```
