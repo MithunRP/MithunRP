@@ -16,7 +16,8 @@
 <br><br>
 </div>  
 
-# 📫 My Socials
+# 📫 My Socials:
+ <img align="left" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" height="195" />
 
   ```
   mithunrp07@gmail.com
@@ -29,6 +30,7 @@ https://github.com/MithunRP
   ```
 https://www.linkedin.com/in/mithunrp/
   ```
+
 
 
 # 💻 Tech Stack:
@@ -58,13 +60,13 @@ https://www.linkedin.com/in/mithunrp/
   https://shorturl.at/nwxW0
   ```
 
+<div align="center">
 
-# 📊 Stats:
-
+##
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MithunRP&theme=ayu-mirage&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+
 <br><br>
 <img src="https://github.com/MithunRP/MithunRP/blob/main/yin.gif" height="100" />
 <br><br><br>
