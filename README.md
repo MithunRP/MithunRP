@@ -6,19 +6,14 @@
 I'm Mithun, a Computer Science graduate from PESCE, currently working as a Junior Penetration Tester with INE. Recently, I've also started a new role as a Production Manager Intern, combining my technical expertise with managerial responsibilities.
 
 
+<img align="right" src="https://github.com/MithunRP/MithunRP/blob/main/Coding.gif" height="200" />
 
-
- <img align="right" src="https://github.com/MithunRP/MithunRP/blob/main/Coding.gif" height="200" />
-<div align="centre'>
 
 🔍 **Interests:**
 - Cybersecurity and Penetration Testing
 - Software and System Architecture
 - Engaging in Coding Challenges and Learning New Technologies
   
-</div> 
-
-
 🌐 **Certifications:**
 - Certified Cybersecurity Specialist by (ISC)2
 - Google Certified Cybersecurity Professional
