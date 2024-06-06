@@ -12,10 +12,10 @@ I'm Mithun, a Computer Science graduate from PESCE, currently working as a Junio
 🔍 **Interests:**
 - Cybersecurity and Penetration Testing
 - Software and System Architecture
-- Engaging in Coding Challenges and Learning New Technologies
+- Production Management
   
 🌐 **Certifications:**
-- Certified Cybersecurity Specialist by (ISC)2
+- Certified in Cybersecurity by (ISC)2
 - Google Certified Cybersecurity Professional
 - eJPTV2 Certified
 
