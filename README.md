@@ -3,7 +3,7 @@
 <img alt="Professional Banner" src="https://github.com/MithunRP/MithunRP/blob/main/banner.png">
 
 # 💫 About Me:
-I'm Mithun, a Computer Science graduate from PESCE, currently working as a Junior Penetration Tester with INE. Recently, I've also started a new role as a Production Manager Intern, combining my technical expertise with managerial responsibilities.
+I'm Mithun, a Computer Science graduate from PESCE, currently working as a Saviynt Developer Intern at Sec Armor. Alongside this, I'm actively exploring new fields in identity governance and cybersecurity, combining my technical foundation with a passion for learning and innovation.
 
 
 <img align="right" src="https://github.com/MithunRP/MithunRP/blob/main/Coding.gif" height="200" />
@@ -31,9 +31,6 @@ I'm Mithun, a Computer Science graduate from PESCE, currently working as a Junio
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 📄 My Resume & Certifications:
-- **[Resume](https://rb.gy/3rdzma)**
-- **[Certifications](https://shorturl.at/nwxW0)**
 
 <div align="center">
     <img src="https://github.com/MithunRP/MithunRP/blob/main/yin.gif" height="100" alt="Yin Yang Animation" />
